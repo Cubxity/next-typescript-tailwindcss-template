@@ -2,9 +2,7 @@
 
 ![](.github/assets/banner.svg)
 
-<p align="center">
-    ⚡ Simplistic [Next.js](https://nextjs.org) + [TypeScript](https://www.typescriptlang.org/) + [Tailwind CSS](https://tailwindcss.com/) website template.
-</p>
+⚡ Simplistic [Next.js](https://nextjs.org) + [TypeScript](https://www.typescriptlang.org/) + [Tailwind CSS](https://tailwindcss.com/) website template.
 
 ## Features
 
