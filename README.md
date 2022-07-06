@@ -1,6 +1,10 @@
-# next-typescript-tailwindcss-template
+<h1 align="center">next-typescript-tailwindcss-template</h1>
 
-⚡ Simplistic [Next.js](https://nextjs.org) + [TypeScript](https://www.typescriptlang.org/) + [Tailwind CSS](https://tailwindcss.com/) website template.
+![](.github/assets/banner.svg)
+
+<p align="center">
+    ⚡ Simplistic [Next.js](https://nextjs.org) + [TypeScript](https://www.typescriptlang.org/) + [Tailwind CSS](https://tailwindcss.com/) website template.
+</p>
 
 ## Features
 
@@ -9,7 +13,11 @@
 * Tailwind CSS
 * svgr
 * ESLint
+  * Next.js core web vitals 
+  * Prettier rules
 * Prettier
+  * Tailwind CSS plugin
+* Path aliases
 
 ## Getting Started
 You can use any package manager of your choice, but [pnpm](https://pnpm.io) is preferred.
