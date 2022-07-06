@@ -1,6 +1,10 @@
-# next-typescript-tailwindcss-template
+<h1 align="center">next-typescript-tailwindcss-template</h1>
 
-⚡ Simplistic Next.js + TypeScript + Tailwind CSS website template.
+![](.github/assets/banner.svg)
+
+<p align="center">
+    ⚡ Simplistic Next.js + TypeScript + Tailwind CSS website template.
+</p>
 
 ## Features
 
@@ -9,7 +13,11 @@
 * Tailwind CSS
 * svgr
 * ESLint
+  * Next.js core web vitals 
+  * Prettier rules
 * Prettier
+  * Tailwind CSS plugin
+* Path aliases
 
 ## Getting Started
 
