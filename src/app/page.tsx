@@ -1,6 +1,4 @@
-import type { NextPage } from "next";
-
-const Home: NextPage = () => {
+const Home = () => {
   return <h1 className="font-bold text-2xl m-4">Hello, World!</h1>;
 };
 
